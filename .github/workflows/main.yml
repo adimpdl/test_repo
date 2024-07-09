@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Bloxberg certifier
-        uses: bloxberg-org/bloxberg-certify-github-action@v1.0.1
+        uses: bloxberg-org/bloxberg-certify-github-action@v1.0.2
